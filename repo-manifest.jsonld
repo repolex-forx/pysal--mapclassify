@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/mapclassify/commit/8df1564808e475f2a48db7f9ab8275400dcc627a",
       "git:hexsha": "8df1564808e475f2a48db7f9ab8275400dcc627a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T03:34:06.539030+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/mapclassify/commit/e08eea1f09b00eb5fab3e32acf32990fcda7f3ac",
