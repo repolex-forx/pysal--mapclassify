@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "mapclassify",
+  "versions": [
+    {
+      "commit": "8df1564808e475f2a48db7f9ab8275400dcc627a",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:34:06.539525+00:00"
+    }
+  ]
+}
